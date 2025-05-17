@@ -7,4 +7,4 @@ streamlit==1.28.0
 PyPDF2==3.0.1
 Pillow==10.0.1
 numpy==1.26.2
-autogen==0.2.7
+autogen==0.8.5
