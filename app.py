@@ -6,18 +6,6 @@ from agents.explanation_agent import ExplanationAgent
 from agents.quiz_master_agent import QuizMasterAgent
 from agents.exam_coach_agent import ExamCoachAgent
 from services.document_ocr import process_uploaded_file
-from config import (
-    AZURE_OPENAI_ENDPOINT,
-    AZURE_OPENAI_API_KEY,
-    AZURE_OPENAI_API_VERSION,
-    AZURE_OPENAI_DEPLOYMENT_NAME,
-    AZURE_DOC_INTELLIGENCE_ENDPOINT,
-    AZURE_DOC_INTELLIGENCE_KEY,
-    AZURE_SEARCH_ENDPOINT,
-    AZURE_SEARCH_KEY,
-    AZURE_SEARCH_INDEX_NAME
-)
-
 
 load_dotenv()
 def set_custom_style():
