@@ -3,7 +3,7 @@ openai
 azure-identity 
 azure-search-documents 
 azure-ai-formrecognizer 
-treamlit 
+streamlit 
 PyPDF2 
 Pillow 
 numpy 
